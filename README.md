@@ -66,7 +66,7 @@ This will commit the file with comments.
 
 # goto Git login >> git email & passed >> setting >> Devloper Setting >> Tokens >> create claasic token >> copy tocken and save it.
 
-git remote add origin https://<token>@github.com/<username>/<repo>.git
+git remote add origin https://token@github.com/username/repo.git
 # Note >> Git token will only be shown once please copy it and save it to use further. 
 
 This command will push 1.txt to the main branch.
